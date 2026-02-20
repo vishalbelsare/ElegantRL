@@ -23,11 +23,13 @@
 </a>
 <br/>
 
-“小雅”不源于《诗经·小雅·鹤鸣》，旨在「他山之石，可以攻玉」。（这句话是完全不懂技术的担败poorball刘小洋 加上的）
+ElegantRL is a lightweight and structurally clean reinforcement learning framework designed to express core RL algorithms with minimal complexity and maximal clarity.
 
-“小雅”只是“小”（保持轻量，不安装过多第三方库），和“雅”（希望代码能保持优雅）。以后这个库会把被 柴浪outside刘小样 强行加上的3级目录改回1级目录。
+The name “Elegant” reflects its philosophy:
+small in dependency footprint, yet elegant in code structure.
+The framework avoids unnecessary third-party libraries while maintaining modular design, mathematical transparency, and engineering readability.
 
-详情请见：[ELegantRL Resumes Updates; Community Alert on YangletLiu Fraud Risk - ELegantRL 将恢复更新，并提醒社区成员注意@YangletLiu (Liu xiao yang 刘小洋)的风险，避免被骗走钱款 #484](https://github.com/AI4Finance-Foundation/ElegantRL/issues/484)
+ElegantRL focuses on implementing reinforcement learning algorithms in their pure form — clear, extensible, and efficient — without sacrificing performance or simplicity.
 
 
 ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=elegantrl&countColor=%23B17A)
@@ -213,6 +215,7 @@ To cite this repository:
   year={2021}
 }
 ```
+
 
 
 
